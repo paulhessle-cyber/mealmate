@@ -1,0 +1,9 @@
+{
+  "name": "mealmate-server",
+  "version": "1.0.0",
+  "description": "MealMate backend: shared pantry, favourites and recipe suggestions",
+  "main": "server.js",
+  "private": true,
+  "engines": { "node": ">=18.17" },
+  "scripts": { "start": "node server.js" }
+}

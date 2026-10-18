@@ -1,8 +1,8 @@
-/* MealMate web app — v1.0 */
+/* MealMate web app — v1.1 */
 (function () {
   'use strict';
 
-  var VERSION = '1.0';
+  var VERSION = '1.1';
   var CFG = window.MEALMATE_CONFIG || {};
   var API = String(CFG.apiBase || '').replace(/\/$/, '');
   var app = document.getElementById('app');
